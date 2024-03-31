@@ -1,0 +1,2 @@
+
+Here, I am endeavoring to develop a library management system for our college, RCIT, where staff members maintain records digitally. I see this project as a potential final year project, as it allows me to learn Django for backend development and explore all the built-in methods and functions within the Django framework. If you wish to replicate my code, you'll need to follow certain steps or commands on your laptop or desktop.
